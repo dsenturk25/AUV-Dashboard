@@ -5,4 +5,4 @@ Tigers Robotics Takımının Teknofest 2021 insansız su altı sistemleri yarı�
 <br>
 Otonom bölümde çalışmak için tasarlanmıştır.
 <br>
-Otonom yazılımı ve arayüzü çalıştırmadan çnce serverı başlatın.
+Otonom yazılımı ve arayüzü çalıştırmadan önce serverı başlatın.
