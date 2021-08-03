@@ -1,5 +1,5 @@
 
-# TIGERS ROBOTICS ROV DASHBOARD
+# Tigers Robotics ROV Dashboard
 
 Tigers Robotics Takımının Teknofest 2021 insansız su altı sistemleri yarışması için özgün olarak tasarlanmış grafiksel kullanıcı arayüzü
 <br>
