@@ -1,8 +1,6 @@
 
-# TIGERS ROBOTICS ROV DASHBOARD
+# Tigers Robotics ROV Dashboard
 
-Teknofest 2021 insansız su altı sistemleri yarışması için özgün grafiksel kullanıcı arayüzü
+Tigers Robotics 7228 Takımının, Teknofest 2021 İnsansız Sualtı Sistemleri yarışması 
 <br>
-Otonom bölümde çalışmak için tasarlanmıştır.
-<br>
-Otonom yazılımı ve arayüzü çalıştırmadan çnce serverı başlatın.
+için özgün olarak tasarlanmış grafiksel kullanıcı arayüzü ve otonom yazılımı.
